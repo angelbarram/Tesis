@@ -1,3 +1,3 @@
-# Tesis
+# Thesis
 
 My Thesis project :)
